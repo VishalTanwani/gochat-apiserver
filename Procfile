@@ -1,0 +1,1 @@
+web: gochat-server

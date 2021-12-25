@@ -63,9 +63,9 @@ func run() (*driver.DB, error) {
 	//connect to database
 	fmt.Println("Connecting to database...")
 	email := flag.String("email","gochat34@gmail.com","email password")
-	emailPass := flag.String("emailpass","0109","email password")
+	emailPass := flag.String("emailpass","gochat@0109","email password")
 	name := flag.String("dbname","vishal","data base name")
-	pass := flag.String("dbpass","","data base password")
+	pass := flag.String("dbpass","0109","data base password")
 	flag.Parse()
 	setPass(email,emailPass)
 
