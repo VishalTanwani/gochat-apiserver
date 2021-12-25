@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/VishalTanwani/gochat/apiserver/internal/handler"
+	"github.com/VishalTanwani/gochat-apiserver/internal/handler"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 	"net/http"
@@ -39,7 +39,7 @@ func routes() http.Handler {
 // package main
 
 // import (
-// 	"github.com/VishalTanwani/gochat/apiserver/internal/handler"
+// 	"github.com/VishalTanwani/gochat-apiserver/internal/handler"
 // 	"github.com/gorilla/handlers"
 //     "github.com/gorilla/mux"
 // 	"net/http"

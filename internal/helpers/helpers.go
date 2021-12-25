@@ -2,7 +2,7 @@ package helpers
 
 import (
 	"fmt"
-	"github.com/VishalTanwani/gochat/apiserver/internal/config"
+	"github.com/VishalTanwani/gochat-apiserver/internal/config"
 	"net/http"
 	"runtime/debug"
 )

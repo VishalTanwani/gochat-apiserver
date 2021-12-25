@@ -1,4 +1,4 @@
-module github.com/VishalTanwani/gochat/apiserver
+module github.com/VishalTanwani/gochat-apiserver
 
 go 1.15
 

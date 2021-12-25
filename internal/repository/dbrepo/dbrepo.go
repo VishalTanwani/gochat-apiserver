@@ -1,8 +1,8 @@
 package dbrepo
 
 import (
-	"github.com/VishalTanwani/gochat/apiserver/internal/config"
-	"github.com/VishalTanwani/gochat/apiserver/internal/repository"
+	"github.com/VishalTanwani/gochat-apiserver/internal/config"
+	"github.com/VishalTanwani/gochat-apiserver/internal/repository"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

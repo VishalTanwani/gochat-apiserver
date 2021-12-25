@@ -2,7 +2,7 @@ package config
 
 import (
 	"log"
-	"github.com/VishalTanwani/gochat/apiserver/internal/models"
+	"github.com/VishalTanwani/gochat-apiserver/internal/models"
 )
 
 //AppConfig hold the application config

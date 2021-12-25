@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/VishalTanwani/gochat/apiserver/internal/models"
+	"github.com/VishalTanwani/gochat-apiserver/internal/models"
 	"github.com/xhit/go-simple-mail/v2"
 	"time"
 	"fmt"
