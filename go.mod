@@ -1,5 +1,6 @@
 module github.com/VishalTanwani/gochat-apiserver
 
+// +heroku goVersion go1.15      <--add to
 go 1.15
 
 require (
