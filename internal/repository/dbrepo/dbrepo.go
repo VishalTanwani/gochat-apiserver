@@ -11,7 +11,7 @@ type mongoDBRepo struct {
 	DB  *mongo.Client
 }
 
-//NewMongoRepo will return postresdb
+//NewMongoRepo will return mongo DB
 func NewMongoRepo(conn *mongo.Client, a *config.AppConfig) repository.DatabaseRepo {
 	return &mongoDBRepo{
 		App: a,
